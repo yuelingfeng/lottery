@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Lottery_Set>
+    <position pos="label_r00">
+        <description>三等奖</description>
+        <img_path />
+        <prize type="int">3</prize>
+    </position>
+    <position pos="label_r01">
+        <description>幸运奖</description>
+        <img_path />
+        <prize type="int">9</prize>
+    </position>
+    <position pos="label_r02">
+        <description>特等奖</description>
+        <img_path />
+        <prize type="int">0</prize>
+    </position>
+    <position pos="label_r03">
+        <description>二等奖</description>
+        <img_path />
+        <prize type="int">2</prize>
+    </position>
+    <position pos="label_r04">
+        <description>幸运奖</description>
+        <img_path />
+        <prize type="int">9</prize>
+    </position>
+    <position pos="label_r05">
+        <description>五等奖</description>
+        <img_path />
+        <prize type="int">5</prize>
+    </position>
+    <position pos="label_r06">
+        <description>四等奖</description>
+        <img_path />
+        <prize type="int">4</prize>
+    </position>
+    <position pos="label_r07">
+        <description>幸运奖</description>
+        <img_path />
+        <prize type="int">9</prize>
+    </position>
+    <position pos="label_r08">
+        <description>五等奖</description>
+        <img_path />
+        <prize type="int">5</prize>
+    </position>
+    <position pos="label_r10">
+        <description>幸运奖</description>
+        <img_path />
+        <prize type="int">9</prize>
+    </position>
+    <position pos="label_r11">
+        <description>四等奖</description>
+        <img_path />
+        <prize type="int">4</prize>
+    </position>
+<position pos="label_r09"><description>一等奖</description><img_path /><prize type="int">1</prize></position></Lottery_Set>
