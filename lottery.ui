@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>842</width>
+    <width>910</width>
     <height>655</height>
    </rect>
   </property>
@@ -25,7 +25,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -44,7 +44,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -66,7 +66,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -88,7 +88,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -110,7 +110,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -144,7 +144,7 @@
              <property name="font">
               <font>
                <family>仿宋</family>
-               <pointsize>16</pointsize>
+               <pointsize>30</pointsize>
               </font>
              </property>
              <property name="styleSheet">
@@ -187,11 +187,11 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>42</pointsize>
             </font>
            </property>
            <property name="text">
-            <string>PushButton</string>
+            <string>点击抽奖</string>
            </property>
           </widget>
          </item>
@@ -209,7 +209,7 @@
              <property name="font">
               <font>
                <family>仿宋</family>
-               <pointsize>16</pointsize>
+               <pointsize>30</pointsize>
               </font>
              </property>
              <property name="styleSheet">
@@ -243,7 +243,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -271,7 +271,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -299,7 +299,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -327,7 +327,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">
@@ -355,7 +355,7 @@
            <property name="font">
             <font>
              <family>仿宋</family>
-             <pointsize>16</pointsize>
+             <pointsize>30</pointsize>
             </font>
            </property>
            <property name="styleSheet">

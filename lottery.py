@@ -102,9 +102,9 @@ class Lottery(QWidget):
                 self._index += 1
 
             if self._stop:
-                self._stop_time += 0.3
+                self._stop_time += 0.4
 
-            if self._stop_time > 3.6 and self._stop and self._index == self._stop_index:
+            if self._stop_time > 4 and self._stop and self._index == self._stop_index:
                 self._stop_thread.stop()
 
         else:
@@ -262,7 +262,7 @@ class MyThreadStop(QThread):
         while not self._stop:
             time.sleep(self._sec)
             self.time_change_signal.emit(True)
-            self._sec = self._sec + 0.02
+            self._sec = self._sec + 0.035
         else:
             time.sleep(self._sec)
             self.time_change_signal.emit(False)
